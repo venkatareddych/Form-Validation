@@ -1,0 +1,21 @@
+.bg-own{
+    background-color: lightgray!important;
+}
+.is-form-valid{
+    border: 1px solid limegreen;
+    border-left: 15px solid limegreen;
+    box-shadow: 0 0 10px limegreen;
+}
+.is-form-invalid{
+        border: 1px solid orangered;
+        border-left: 15px solid orangered;
+        box-shadow: 0 0 10px orangered;
+}
+.text-succes{
+    color: limegreen !important;
+    font-size: 14px !important;
+}
+.text-danger{
+   color: orangered !important;
+   font-size: 14px !important;  
+}
